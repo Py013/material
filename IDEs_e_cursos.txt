@@ -1,0 +1,20 @@
+IDEs Python
+-> PyCharm
+-> jupyter (Data science)
+-> Google Colab
+-> Watson Studio (Online)
+-> Anaconda
+-> VSCode
+-> SublimeText
+
+Como começar?
+-> Curso em video
+-> Caveira Tech
+-> LAICA - Unifesp
+-> https://www.urionlinejudge.com.br/judge/pt/ranks/problem/1012/python
+-> http://laica.unifesp.tecnologia.ws/treinamento/
+-> https://cognitiveclass.ai/courses/python-for-data-science/
+-> DataScience Academy
+
+Repositório DataScience
+-> KAGGLE
